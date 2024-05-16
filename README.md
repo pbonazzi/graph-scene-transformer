@@ -1,7 +1,8 @@
-# 3D Scene Generation with Scene Graphs Leveraging Self-Attention
+#  3D Scene Generation from Scene Graphs and Self-A!entions 
 
-This repository contains code for master project of Pietro Bonazzi and Mengqi Wang. Supervised by Diego Martin Arroyo (Google), Fabian Manhardt (Google) and Nico Messikommer (UZH Robotics & Perceptions Group). 
- 
+### [💻 Blog](https://pietrobonazzi.com/projects/scenegraph) |[📜 Paper](https://arxiv.org/pdf/2404.01887v2) 
+
+
 We present a conditional VAE architecture with self-attention layers as fundamental building blocks, tailored to 3D scene generation from scene graphs.
 
 <p align="center">

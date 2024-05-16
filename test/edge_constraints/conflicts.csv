@@ -1,0 +1,1133 @@
+id,scan_id,src_id,src_label,edge,dst_id,dst_label
+0,f62fd5fd-9a3f-2f44-883a-1e5cf819608e,49,pillow, left to ,52,pillow
+0,f62fd5fd-9a3f-2f44-883a-1e5cf819608e,52,pillow, right to ,49,pillow
+0,f62fd5fd-9a3f-2f44-883a-1e5cf819608e,14,cabinet, lower than ,18,cabinet
+0,f62fd5fd-9a3f-2f44-883a-1e5cf819608e,18,cabinet, higher than ,14,cabinet
+9,c7895f78-339c-2d13-82bb-cc990cbbc90f,8,shelf, behind ,10,shelf
+9,c7895f78-339c-2d13-82bb-cc990cbbc90f,10,shelf, front ,8,shelf
+10,787ed580-9d98-2c97-8167-6d3b445da2c0,12,cabinet, lower than ,13,cabinet
+10,787ed580-9d98-2c97-8167-6d3b445da2c0,13,cabinet, higher than ,12,cabinet
+13,41385847-a238-2435-838b-61864922c518,32,shelf, lower than ,45,shelf
+13,41385847-a238-2435-838b-61864922c518,45,shelf, higher than ,32,shelf
+20,fcf66db8-622d-291c-8502-863b391b9ef1,27,box, higher than ,30,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,28,box, lower than ,33,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,30,box, lower than ,27,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,30,box, lower than ,33,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,31,box, lower than ,33,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,33,box, higher than ,28,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,33,box, higher than ,30,box
+20,fcf66db8-622d-291c-8502-863b391b9ef1,33,box, higher than ,31,box
+22,422885ce-192d-25fc-851a-df2d675a6559,16,chair, higher than ,43,chair
+22,422885ce-192d-25fc-851a-df2d675a6559,17,chair, higher than ,43,chair
+22,422885ce-192d-25fc-851a-df2d675a6559,43,chair, lower than ,16,chair
+22,422885ce-192d-25fc-851a-df2d675a6559,43,chair, lower than ,17,chair
+28,7272e190-a01b-20f6-8bde-769bcd548633,26,picture, right to ,29,picture
+28,7272e190-a01b-20f6-8bde-769bcd548633,29,picture, left to ,26,picture
+30,751a5581-fe61-2c3b-8cac-76cacfb277e0,22,shelf, higher than ,25,shelf
+30,751a5581-fe61-2c3b-8cac-76cacfb277e0,25,shelf, lower than ,22,shelf
+36,8eabc418-5af7-2f32-85a1-a2709b29c46d,4,chair, higher than ,18,chair
+36,8eabc418-5af7-2f32-85a1-a2709b29c46d,18,chair, lower than ,4,chair
+47,fcf66d98-622d-291c-851a-a16c117a91bb,7,chair, lower than ,33,chair
+47,fcf66d98-622d-291c-851a-a16c117a91bb,33,chair, higher than ,7,chair
+50,aa20278c-8bc8-2c5b-9d18-016312e4463a,12,door, front ,58,doorframe
+50,aa20278c-8bc8-2c5b-9d18-016312e4463a,58,doorframe, behind ,12,door
+50,aa20278c-8bc8-2c5b-9d18-016312e4463a,33,table, higher than ,54,table
+50,aa20278c-8bc8-2c5b-9d18-016312e4463a,54,table, lower than ,33,table
+54,6bde60ec-9162-246f-8d34-324b01605c9c,9,shower wall, behind ,95,trash can
+54,6bde60ec-9162-246f-8d34-324b01605c9c,95,trash can, front ,9,shower wall
+54,6bde60ec-9162-246f-8d34-324b01605c9c,41,pillow, bigger than ,53,pillow
+54,6bde60ec-9162-246f-8d34-324b01605c9c,53,pillow, smaller than ,41,pillow
+58,c7895f42-339c-2d13-814f-994062b318b0,11,shelf, front ,12,shelf
+58,c7895f42-339c-2d13-814f-994062b318b0,12,shelf, behind ,11,shelf
+63,ad408cad-84db-2095-8be8-68c0f94d8d14,17,box, smaller than ,27,box
+63,ad408cad-84db-2095-8be8-68c0f94d8d14,27,box, bigger than ,17,box
+67,1d234004-e280-2b1a-8ec8-560046b9fc96,10,stool, front ,15,stool
+67,1d234004-e280-2b1a-8ec8-560046b9fc96,15,stool, behind ,10,stool
+68,fcf66da4-622d-291c-8642-c11ea83a329c,11,shelf, behind ,14,wardrobe
+68,fcf66da4-622d-291c-8642-c11ea83a329c,14,wardrobe, front ,11,shelf
+68,fcf66da4-622d-291c-8642-c11ea83a329c,41,box, right to ,46,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,46,box, left to ,41,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,46,box, left to ,51,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,51,box, right to ,46,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,33,box, smaller than ,45,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,41,box, lower than ,43,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,42,box, smaller than ,45,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,43,box, higher than ,41,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,43,box, smaller than ,53,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,45,box, bigger than ,33,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,45,box, bigger than ,42,box
+68,fcf66da4-622d-291c-8642-c11ea83a329c,53,box, bigger than ,43,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,21,shelf, left to ,26,shelf
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,22,box, behind ,32,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,26,shelf, right to ,21,shelf
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,32,box, front ,22,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,32,box, left to ,38,basket
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,38,basket, right to ,32,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,25,box, smaller than ,43,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,36,box, smaller than ,40,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,40,box, bigger than ,36,box
+69,fcf66dba-622d-291c-8537-1ab5313bc52a,43,box, bigger than ,25,box
+70,185d7423-3698-223c-8879-80ad9339afce,14,chair, bigger than ,19,chair
+70,185d7423-3698-223c-8879-80ad9339afce,18,chair, higher than ,39,chair
+70,185d7423-3698-223c-8879-80ad9339afce,19,chair, smaller than ,14,chair
+70,185d7423-3698-223c-8879-80ad9339afce,19,chair, higher than ,39,chair
+70,185d7423-3698-223c-8879-80ad9339afce,39,chair, lower than ,18,chair
+70,185d7423-3698-223c-8879-80ad9339afce,39,chair, lower than ,19,chair
+71,8e0f1c2f-9e28-2339-85ae-05fc50d1a3a7,12,picture, higher than ,34,picture
+71,8e0f1c2f-9e28-2339-85ae-05fc50d1a3a7,12,picture, higher than ,35,picture
+71,8e0f1c2f-9e28-2339-85ae-05fc50d1a3a7,34,picture, lower than ,12,picture
+71,8e0f1c2f-9e28-2339-85ae-05fc50d1a3a7,35,picture, lower than ,12,picture
+79,1c211546-f201-2d25-862b-6323518ec6e1,15,box, higher than ,510,box
+79,1c211546-f201-2d25-862b-6323518ec6e1,510,box, lower than ,15,box
+83,aa20278e-8bc8-2c5b-9cfe-01db71781ed4,17,basket, behind ,23,box
+83,aa20278e-8bc8-2c5b-9cfe-01db71781ed4,23,box, front ,17,basket
+86,4e858c89-fd93-2cb4-8459-7542184fd2ad,36,tv, behind ,38,shelf
+86,4e858c89-fd93-2cb4-8459-7542184fd2ad,38,shelf, front ,36,tv
+96,fcf66d7d-622d-291c-8542-f708b096b45f,12,cabinet, left to ,21,shelf
+96,fcf66d7d-622d-291c-8542-f708b096b45f,21,shelf, right to ,12,cabinet
+104,d7d40d6c-7a5d-2b36-9674-c435fa58a2d1,3,picture, bigger than ,14,picture
+104,d7d40d6c-7a5d-2b36-9674-c435fa58a2d1,14,picture, smaller than ,3,picture
+113,20c99392-698f-29c5-8439-54bec948ecb1,12,pillow, higher than ,82,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,32,shelf, smaller than ,41,shelf
+113,20c99392-698f-29c5-8439-54bec948ecb1,35,pillow, higher than ,82,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,36,pillow, higher than ,82,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,41,shelf, bigger than ,32,shelf
+113,20c99392-698f-29c5-8439-54bec948ecb1,53,shelf, smaller than ,68,shelf
+113,20c99392-698f-29c5-8439-54bec948ecb1,68,shelf, bigger than ,53,shelf
+113,20c99392-698f-29c5-8439-54bec948ecb1,79,pillow, bigger than ,86,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,81,pillow, smaller than ,82,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,82,pillow, lower than ,12,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,82,pillow, lower than ,35,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,82,pillow, lower than ,36,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,82,pillow, bigger than ,81,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,82,pillow, bigger than ,86,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,86,pillow, smaller than ,79,pillow
+113,20c99392-698f-29c5-8439-54bec948ecb1,86,pillow, smaller than ,82,pillow
+114,10b17948-3938-2467-8bb9-fcd621974410,11,box, higher than ,70,box
+114,10b17948-3938-2467-8bb9-fcd621974410,18,shelf, bigger than ,19,shelf
+114,10b17948-3938-2467-8bb9-fcd621974410,19,shelf, smaller than ,18,shelf
+114,10b17948-3938-2467-8bb9-fcd621974410,20,box, higher than ,70,box
+114,10b17948-3938-2467-8bb9-fcd621974410,70,box, lower than ,11,box
+114,10b17948-3938-2467-8bb9-fcd621974410,70,box, lower than ,20,box
+124,bf9a3daa-45a5-2e80-8162-9bf768132559,13,shelf, left to ,39,pipe
+124,bf9a3daa-45a5-2e80-8162-9bf768132559,39,pipe, right to ,13,shelf
+127,752cc5a5-920c-26f5-8ef1-aac2937ab135,14,chair, left to ,40,box
+127,752cc5a5-920c-26f5-8ef1-aac2937ab135,40,box, right to ,14,chair
+128,1c211556-f201-2d25-87f8-b0ac6ffb74fe,16,chair, higher than ,43,chair
+128,1c211556-f201-2d25-87f8-b0ac6ffb74fe,17,chair, higher than ,43,chair
+128,1c211556-f201-2d25-87f8-b0ac6ffb74fe,43,chair, lower than ,16,chair
+128,1c211556-f201-2d25-87f8-b0ac6ffb74fe,43,chair, lower than ,17,chair
+129,c92fb590-f771-2064-8665-19d71d08c0ef,29,trash can, left to ,30,item
+129,c92fb590-f771-2064-8665-19d71d08c0ef,30,item, right to ,29,trash can
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,15,pillow, front ,22,pillow
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,22,pillow, behind ,15,pillow
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,37,cabinet, left to ,40,object
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,39,box, left to ,40,object
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,40,object, right to ,37,cabinet
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,40,object, right to ,39,box
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,41,box, front ,43,box
+130,0cac7676-8d6f-2d13-8f3a-d7bf7f03e721,43,box, behind ,41,box
+133,dbeb4cee-faf9-2324-991e-79c1f7e0b908,16,shelf, higher than ,22,shelf
+133,dbeb4cee-faf9-2324-991e-79c1f7e0b908,16,shelf, higher than ,39,shelf
+133,dbeb4cee-faf9-2324-991e-79c1f7e0b908,22,shelf, lower than ,16,shelf
+133,dbeb4cee-faf9-2324-991e-79c1f7e0b908,39,shelf, lower than ,16,shelf
+140,5104a9c7-adc4-2a85-9026-45557dcf9a87,45,pillow, behind ,46,pillow
+140,5104a9c7-adc4-2a85-9026-45557dcf9a87,46,pillow, front ,45,pillow
+142,20c993a5-698f-29c5-8565-40e064af0fc4,27,chair, higher than ,36,chair
+142,20c993a5-698f-29c5-8565-40e064af0fc4,36,chair, lower than ,27,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,22,chair, higher than ,25,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,23,chair, higher than ,25,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,24,chair, higher than ,25,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,25,chair, lower than ,22,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,25,chair, lower than ,23,chair
+147,5555108f-36f1-29c0-8b75-21a0bb8b1833,25,chair, lower than ,24,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,25,chair, higher than ,31,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,25,chair, higher than ,32,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,25,chair, higher than ,33,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,25,chair, higher than ,47,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,27,chair, higher than ,32,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,27,chair, higher than ,33,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,27,chair, higher than ,47,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,30,chair, lower than ,34,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,31,chair, lower than ,25,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,32,chair, lower than ,25,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,32,chair, lower than ,27,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,33,chair, lower than ,25,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,33,chair, lower than ,27,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,34,chair, higher than ,30,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,34,chair, higher than ,37,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,34,chair, higher than ,45,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,37,chair, lower than ,34,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,45,chair, lower than ,34,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,47,chair, lower than ,25,chair
+152,4fbad32b-465b-2a5d-8499-85100e88f454,47,chair, lower than ,27,chair
+158,752cc5a3-920c-26f5-8ff3-49518eff94c6,10,chair, higher than ,14,chair
+158,752cc5a3-920c-26f5-8ff3-49518eff94c6,14,chair, lower than ,10,chair
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,5,shelf, left to ,9,box
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,9,box, right to ,5,shelf
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,61,box, left to ,62,plant
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,62,plant, right to ,61,box
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,70,plant, left to ,72,plant
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,72,plant, right to ,70,plant
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,10,shelf, higher than ,22,shelf
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,10,shelf, higher than ,40,shelf
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,22,shelf, lower than ,10,shelf
+160,5341b7d3-8a66-2cdd-8633-0a3da632befa,40,shelf, lower than ,10,shelf
+164,20c993c1-698f-29c5-86b8-50a2a0907e2b,12,picture, higher than ,34,picture
+164,20c993c1-698f-29c5-86b8-50a2a0907e2b,12,picture, higher than ,35,picture
+164,20c993c1-698f-29c5-86b8-50a2a0907e2b,34,picture, lower than ,12,picture
+164,20c993c1-698f-29c5-86b8-50a2a0907e2b,35,picture, lower than ,12,picture
+166,7272e17c-a01b-20f6-8b2f-e659331ae41a,27,table, higher than ,34,table
+166,7272e17c-a01b-20f6-8b2f-e659331ae41a,34,table, lower than ,27,table
+167,f62fd5ff-9a3f-2f44-894c-462b3997d695,48,picture, lower than ,49,picture
+167,f62fd5ff-9a3f-2f44-894c-462b3997d695,49,picture, higher than ,48,picture
+173,0cac7599-8d6f-2d13-8e7f-4217750a64cc,280,pillow, lower than ,100,pillow
+173,0cac7599-8d6f-2d13-8e7f-4217750a64cc,100,pillow, higher than ,280,pillow
+178,1d233ff6-e280-2b1a-8ed5-3eec62f9bb3f,24,shelf, left to ,25,shelf
+178,1d233ff6-e280-2b1a-8ed5-3eec62f9bb3f,25,shelf, right to ,24,shelf
+182,ddc737b3-765b-241a-9c35-6b7662c04fc9,204,shelf, bigger than ,24,shelf
+182,ddc737b3-765b-241a-9c35-6b7662c04fc9,23,shelf, lower than ,24,shelf
+182,ddc737b3-765b-241a-9c35-6b7662c04fc9,24,shelf, smaller than ,204,shelf
+182,ddc737b3-765b-241a-9c35-6b7662c04fc9,24,shelf, higher than ,23,shelf
+187,0cac7584-8d6f-2d13-8df8-c05e4307b418,5,shelf, higher than ,15,shelf
+187,0cac7584-8d6f-2d13-8df8-c05e4307b418,15,shelf, lower than ,5,shelf
+191,ddc737a7-765b-241a-9f27-0958b929deb5,16,shelf, higher than ,29,shelf
+191,ddc737a7-765b-241a-9f27-0958b929deb5,29,shelf, lower than ,16,shelf
+196,e83fe657-2171-26c8-8c64-199f0871f98d,28,clothes, right to ,29,clothes
+196,e83fe657-2171-26c8-8c64-199f0871f98d,29,clothes, left to ,28,clothes
+198,6bde6049-9162-246f-8c0e-25e1e80c0a45,10,coffee table, higher than ,14,coffee table
+198,6bde6049-9162-246f-8c0e-25e1e80c0a45,14,coffee table, lower than ,10,coffee table
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,5,chair, lower than ,20,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,5,chair, lower than ,30,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,7,chair, lower than ,18,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,7,chair, lower than ,20,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,18,chair, higher than ,7,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,20,chair, higher than ,5,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,20,chair, higher than ,7,chair
+206,752cc59d-920c-26f5-8d45-d78b49fe63f3,30,chair, higher than ,5,chair
+210,1c21154a-f201-2d25-8573-d3e22ddfe900,15,box, higher than ,27,box
+210,1c21154a-f201-2d25-8573-d3e22ddfe900,27,box, lower than ,15,box
+210,1c21154a-f201-2d25-8573-d3e22ddfe900,42,box, higher than ,53,box
+210,1c21154a-f201-2d25-8573-d3e22ddfe900,53,box, lower than ,42,box
+213,cdcaf5bb-ddd8-2ed6-9714-55394577db57,22,box, bigger than ,54,box
+213,cdcaf5bb-ddd8-2ed6-9714-55394577db57,54,box, smaller than ,22,box
+218,7747a502-9431-24e8-8456-5c6bc3e2eea3,8,picture, higher than ,25,picture
+218,7747a502-9431-24e8-8456-5c6bc3e2eea3,25,picture, lower than ,8,picture
+220,74ef8474-9dce-2d66-82e5-309429937089,49,pillow, left to ,52,pillow
+220,74ef8474-9dce-2d66-82e5-309429937089,52,pillow, right to ,49,pillow
+228,422885d4-192d-25fc-862e-b0cc5a8c13e1,21,chair, behind ,33,shelf
+228,422885d4-192d-25fc-862e-b0cc5a8c13e1,33,shelf, front ,21,chair
+228,422885d4-192d-25fc-862e-b0cc5a8c13e1,40,blanket, right to ,42,pillow
+228,422885d4-192d-25fc-862e-b0cc5a8c13e1,42,pillow, left to ,40,blanket
+231,ffa41872-6f78-2040-8600-7b90c9a0fa89,17,shelf, smaller than ,24,shelf
+231,ffa41872-6f78-2040-8600-7b90c9a0fa89,24,shelf, bigger than ,17,shelf
+249,bf9a3dbc-45a5-2e80-80d0-6dc2f6a6f1e9,12,heater, behind ,18,windowsill
+249,bf9a3dbc-45a5-2e80-80d0-6dc2f6a6f1e9,18,windowsill, front ,12,heater
+252,0cac7595-8d6f-2d13-8cad-f51af4c9aba2,64,box, bigger than ,21,box
+252,0cac7595-8d6f-2d13-8cad-f51af4c9aba2,21,box, smaller than ,64,box
+254,751a558a-fe61-2c3b-8f24-9c288e5fca94,22,shelf, higher than ,25,shelf
+254,751a558a-fe61-2c3b-8f24-9c288e5fca94,25,shelf, lower than ,22,shelf
+261,c7895f5d-339c-2d13-8003-0763dfb1b23c,6,kitchen cabinet, lower than ,25,kitchen cabinet
+261,c7895f5d-339c-2d13-8003-0763dfb1b23c,25,kitchen cabinet, higher than ,6,kitchen cabinet
+272,ad408c8d-84db-2095-8963-4570e5546cbd,35,basket, right to ,37,basket
+272,ad408c8d-84db-2095-8963-4570e5546cbd,37,basket, left to ,35,basket
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,10,shelf, lower than ,11,shelf
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,11,shelf, higher than ,10,shelf
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,22,box, higher than ,37,box
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,25,box, higher than ,42,box
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,37,box, lower than ,22,box
+281,fcf66dbc-622d-291c-8481-6e8761c93e21,42,box, lower than ,25,box
+282,ddc737a5-765b-241a-9cd2-c6e7a89aa43d,17,shelf, bigger than ,35,shelf
+282,ddc737a5-765b-241a-9cd2-c6e7a89aa43d,35,shelf, smaller than ,17,shelf
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,25,chair, higher than ,37,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,25,chair, higher than ,44,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,25,chair, higher than ,45,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,25,chair, higher than ,47,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,25,chair, higher than ,48,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,27,chair, higher than ,37,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,27,chair, higher than ,44,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,37,chair, lower than ,25,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,37,chair, lower than ,27,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,44,chair, lower than ,25,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,44,chair, lower than ,27,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,45,chair, lower than ,25,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,47,chair, lower than ,25,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,48,chair, lower than ,25,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,49,chair, bigger than ,51,chair
+284,c12890e0-d3df-2d0d-87f7-9b8b04f663a5,51,chair, smaller than ,49,chair
+285,d7d40d66-7a5d-2b36-941c-8c8d61e4e0ab,9,cupboard, front ,11,shelf
+285,d7d40d66-7a5d-2b36-941c-8c8d61e4e0ab,11,shelf, behind ,9,cupboard
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,25,box, bigger than ,27,box
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,26,box, lower than ,28,box
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,27,box, smaller than ,25,box
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,27,box, higher than ,31,box
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,28,box, higher than ,26,box
+286,fcf66db4-622d-291c-8720-d0a6bbd17846,31,box, lower than ,27,box
+290,5341b7b5-8a66-2cdd-841d-805bfa2c44b5,32,shelf, lower than ,45,shelf
+290,5341b7b5-8a66-2cdd-841d-805bfa2c44b5,45,shelf, higher than ,32,shelf
+297,352e9c36-69fb-27a7-889f-69b450a22b74,19,shelf, left to ,55,plant
+297,352e9c36-69fb-27a7-889f-69b450a22b74,55,plant, right to ,19,shelf
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,5,table, right to ,34,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,34,chair, left to ,5,table
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,12,chair, higher than ,38,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,14,chair, higher than ,39,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,17,chair, higher than ,38,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,17,chair, higher than ,56,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,18,chair, higher than ,38,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,18,chair, higher than ,39,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,18,chair, higher than ,56,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,19,chair, higher than ,56,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,38,chair, lower than ,12,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,38,chair, lower than ,17,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,38,chair, lower than ,18,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,39,chair, lower than ,14,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,39,chair, lower than ,18,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,56,chair, lower than ,17,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,56,chair, lower than ,18,chair
+300,1d233ffc-e280-2b1a-8c3a-af74ca2b0cea,56,chair, lower than ,19,chair
+305,13124cc8-cec3-27a6-87e6-11de5c4a40dd,13,shelf, bigger than ,66,shelf
+305,13124cc8-cec3-27a6-87e6-11de5c4a40dd,29,chair, lower than ,30,chair
+305,13124cc8-cec3-27a6-87e6-11de5c4a40dd,30,chair, higher than ,29,chair
+305,13124cc8-cec3-27a6-87e6-11de5c4a40dd,66,shelf, smaller than ,13,shelf
+307,20c993cb-698f-29c5-86fd-1a409a569219,33,box, higher than ,35,box
+307,20c993cb-698f-29c5-86fd-1a409a569219,35,box, lower than ,33,box
+311,0cac75b1-8d6f-2d13-8c17-9099db8915bc,20,shelf, higher than ,36,shelf
+311,0cac75b1-8d6f-2d13-8c17-9099db8915bc,36,shelf, lower than ,20,shelf
+321,752cc57a-920c-26f5-8ce3-828413bc3cd4,30,cabinet, lower than ,39,cabinet
+321,752cc57a-920c-26f5-8ce3-828413bc3cd4,39,cabinet, higher than ,30,cabinet
+330,20c9939f-698f-29c5-86fa-653fe33ff6fc,9,chair, right to ,11,chair
+330,20c9939f-698f-29c5-86fa-653fe33ff6fc,11,chair, left to ,9,chair
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,7,box, bigger than ,74,box
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,18,shelf, bigger than ,19,shelf
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,19,shelf, smaller than ,18,shelf
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,19,shelf, higher than ,37,shelf
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,37,shelf, lower than ,19,shelf
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,60,box, bigger than ,74,box
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,74,box, smaller than ,7,box
+339,d7d40d75-7a5d-2b36-9746-3e807d3e7558,74,box, smaller than ,60,box
+344,55551081-36f1-29c0-88ad-9518e9fd2f4f,18,chair, bigger than ,20,chair
+344,55551081-36f1-29c0-88ad-9518e9fd2f4f,20,chair, smaller than ,18,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,16,chair, higher than ,19,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,16,chair, higher than ,43,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,16,chair, higher than ,50,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,17,chair, higher than ,43,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,17,chair, higher than ,50,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,19,chair, lower than ,16,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,43,chair, lower than ,16,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,43,chair, lower than ,17,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,50,chair, lower than ,16,chair
+346,1c211554-f201-2d25-8680-513a91547c2f,50,chair, lower than ,17,chair
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,2,wardrobe, right to ,21,chair
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,21,chair, left to ,2,wardrobe
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,38,box, right to ,45,box
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,45,box, left to ,38,box
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,45,box, left to ,51,box
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,51,box, right to ,45,box
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,10,shelf, higher than ,11,shelf
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,11,shelf, lower than ,10,shelf
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,33,box, smaller than ,45,box
+348,fcf66da8-622d-291c-8565-c44cf20e39b9,45,box, bigger than ,33,box
+353,b05fdd5a-fca0-2d4f-89fd-d54bd26a115b,204,shelf, right to ,23,shelf
+353,b05fdd5a-fca0-2d4f-89fd-d54bd26a115b,23,shelf, left to ,204,shelf
+353,b05fdd5a-fca0-2d4f-89fd-d54bd26a115b,204,shelf, bigger than ,24,shelf
+353,b05fdd5a-fca0-2d4f-89fd-d54bd26a115b,24,shelf, smaller than ,204,shelf
+363,6bde60e8-9162-246f-8f82-83326a675ee0,42,pillow, bigger than ,53,pillow
+363,6bde60e8-9162-246f-8f82-83326a675ee0,43,pillow, bigger than ,53,pillow
+363,6bde60e8-9162-246f-8f82-83326a675ee0,53,pillow, smaller than ,42,pillow
+363,6bde60e8-9162-246f-8f82-83326a675ee0,53,pillow, smaller than ,43,pillow
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,31,box, higher than ,34,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,31,box, smaller than ,46,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,34,box, lower than ,31,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,34,box, smaller than ,48,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,36,box, smaller than ,48,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,42,box, smaller than ,48,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,46,box, bigger than ,31,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,48,box, bigger than ,34,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,48,box, bigger than ,36,box
+372,feefd90b-9d00-2ce5-8119-b936443cc39b,48,box, bigger than ,42,box
+381,7747a510-9431-24e8-8705-907ee78be2a2,30,chair, behind ,32,cabinet
+381,7747a510-9431-24e8-8705-907ee78be2a2,31,chair, behind ,32,cabinet
+381,7747a510-9431-24e8-8705-907ee78be2a2,32,cabinet, front ,30,chair
+381,7747a510-9431-24e8-8705-907ee78be2a2,32,cabinet, front ,31,chair
+381,7747a510-9431-24e8-8705-907ee78be2a2,33,shelf, left to ,34,shelf
+381,7747a510-9431-24e8-8705-907ee78be2a2,34,shelf, right to ,33,shelf
+397,d9725be1-7513-2d91-8723-770169ff5b75,17,shelf, left to ,18,shelf
+397,d9725be1-7513-2d91-8723-770169ff5b75,18,shelf, right to ,17,shelf
+398,0cac7611-8d6f-2d13-8f47-8ec4a6375ac3,11,bath cabinet, left to ,270,shower wall
+398,0cac7611-8d6f-2d13-8f47-8ec4a6375ac3,270,shower wall, right to ,11,bath cabinet
+403,f62fd5f8-9a3f-2f44-8b1e-1289a3a61e26,37,shelf, higher than ,39,shelf
+403,f62fd5f8-9a3f-2f44-8b1e-1289a3a61e26,39,shelf, lower than ,37,shelf
+405,c92fb588-f771-2064-840a-17748e8c20ad,15,window, front ,26,windowsill
+405,c92fb588-f771-2064-840a-17748e8c20ad,26,windowsill, behind ,15,window
+407,c7895f4c-339c-2d13-8383-527f405b18c3,9,chair, right to ,10,chair
+407,c7895f4c-339c-2d13-8383-527f405b18c3,10,chair, left to ,9,chair
+412,c7895f40-339c-2d13-82c7-8a2810cdf02e,11,shelf, front ,12,shelf
+412,c7895f40-339c-2d13-82c7-8a2810cdf02e,12,shelf, behind ,11,shelf
+412,c7895f40-339c-2d13-82c7-8a2810cdf02e,19,chair, right to ,20,chair
+412,c7895f40-339c-2d13-82c7-8a2810cdf02e,20,chair, left to ,19,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,19,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,19,chair, lower than ,26,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,19,chair, lower than ,29,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,19,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,34,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,40,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,65,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,77,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,21,chair, higher than ,81,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,26,chair, higher than ,19,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,26,chair, higher than ,34,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,26,chair, higher than ,40,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,26,chair, higher than ,77,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,26,chair, higher than ,81,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,29,chair, higher than ,19,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,29,chair, higher than ,34,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,29,chair, higher than ,40,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,29,chair, higher than ,77,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,29,chair, higher than ,81,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,34,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,34,chair, lower than ,26,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,34,chair, lower than ,29,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,40,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,40,chair, lower than ,26,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,40,chair, lower than ,29,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,65,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,77,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,77,chair, lower than ,26,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,77,chair, lower than ,29,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,81,chair, lower than ,21,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,81,chair, lower than ,26,chair
+413,d7d40d60-7a5d-2b36-9573-5d5fe8bae949,81,chair, lower than ,29,chair
+421,6bde60e0-9162-246f-8df9-b07dc8fa8ddf,4,picture, lower than ,5,picture
+421,6bde60e0-9162-246f-8df9-b07dc8fa8ddf,5,picture, higher than ,4,picture
+424,0cac7654-8d6f-2d13-8e68-ddd1767454ad,10,shelf, higher than ,17,shelf
+424,0cac7654-8d6f-2d13-8e68-ddd1767454ad,17,shelf, lower than ,10,shelf
+425,c92fb57e-f771-2064-86e4-5f4c7c77a8c7,20,chair, left to ,21,chair
+425,c92fb57e-f771-2064-86e4-5f4c7c77a8c7,21,chair, right to ,20,chair
+426,20c993af-698f-29c5-84b2-972451f94cfb,21,pillow, higher than ,107,pillow
+426,20c993af-698f-29c5-84b2-972451f94cfb,38,shelf, higher than ,89,shelf
+426,20c993af-698f-29c5-84b2-972451f94cfb,89,shelf, lower than ,38,shelf
+426,20c993af-698f-29c5-84b2-972451f94cfb,107,pillow, lower than ,21,pillow
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,5,chair, higher than ,17,chair
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,17,chair, lower than ,5,chair
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,17,chair, lower than ,27,chair
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,17,chair, lower than ,25,chair
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,27,chair, higher than ,17,chair
+429,0cac75b3-8d6f-2d13-8f4b-3d74070429df,25,chair, higher than ,17,chair
+431,6993478e-1286-2e5b-82d0-eb36d75214de,5,kitchen cabinet, bigger than ,20,kitchen cabinet
+431,6993478e-1286-2e5b-82d0-eb36d75214de,20,kitchen cabinet, smaller than ,5,kitchen cabinet
+433,5341b797-8a66-2cdd-8456-9d0e8ec333ec,5,shelf, lower than ,7,shelf
+433,5341b797-8a66-2cdd-8456-9d0e8ec333ec,7,shelf, higher than ,5,shelf
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,8,shelf, lower than ,14,shelf
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,12,chair, lower than ,25,chair
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,14,shelf, higher than ,8,shelf
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,14,shelf, higher than ,24,shelf
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,24,shelf, lower than ,14,shelf
+451,b05fddd1-fca0-2d4f-8ab9-ecffab72e046,25,chair, higher than ,12,chair
+457,422885e9-192d-25fc-87a9-7013fe4114f2,11,chair, lower than ,16,chair
+457,422885e9-192d-25fc-87a9-7013fe4114f2,11,chair, lower than ,19,chair
+457,422885e9-192d-25fc-87a9-7013fe4114f2,16,chair, higher than ,11,chair
+457,422885e9-192d-25fc-87a9-7013fe4114f2,19,chair, higher than ,11,chair
+459,c12890c7-d3df-2d0d-8541-a72f5bc6a668,30,shelf, left to ,50,shelf
+459,c12890c7-d3df-2d0d-8541-a72f5bc6a668,50,shelf, right to ,30,shelf
+460,6bde609d-9162-246f-8e6e-a3f462f77042,4,picture, lower than ,13,picture
+460,6bde609d-9162-246f-8e6e-a3f462f77042,4,picture, lower than ,15,picture
+460,6bde609d-9162-246f-8e6e-a3f462f77042,13,picture, higher than ,4,picture
+460,6bde609d-9162-246f-8e6e-a3f462f77042,15,picture, higher than ,4,picture
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,7,shelf, higher than ,41,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,7,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,16,shelf, higher than ,41,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,16,shelf, higher than ,42,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,16,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,17,shelf, higher than ,41,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,17,shelf, higher than ,42,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,17,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,18,shelf, higher than ,41,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,18,shelf, higher than ,42,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,18,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,19,shelf, higher than ,41,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,19,shelf, higher than ,42,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,19,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,20,shelf, higher than ,43,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,21,box, higher than ,26,box
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,26,box, lower than ,21,box
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,41,shelf, lower than ,7,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,41,shelf, lower than ,16,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,41,shelf, lower than ,17,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,41,shelf, lower than ,18,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,41,shelf, lower than ,19,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,42,shelf, lower than ,16,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,42,shelf, lower than ,17,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,42,shelf, lower than ,18,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,42,shelf, lower than ,19,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,7,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,16,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,17,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,18,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,19,shelf
+463,10b1794c-3938-2467-8b2b-4e5c91cc5cc3,43,shelf, lower than ,20,shelf
+478,c6707941-2ecb-2de2-8236-13d2d850cf65,40,pillow, behind ,41,pillow
+478,c6707941-2ecb-2de2-8236-13d2d850cf65,41,pillow, front ,40,pillow
+482,0cac767c-8d6f-2d13-8e22-50ba98af68e6,7,picture, smaller than ,8,picture
+482,0cac767c-8d6f-2d13-8e22-50ba98af68e6,8,picture, bigger than ,7,picture
+489,8eabc430-5af7-2f32-84da-1b01b293f2d3,8,kitchen cabinet, right to ,22,shelf
+489,8eabc430-5af7-2f32-84da-1b01b293f2d3,22,shelf, left to ,8,kitchen cabinet
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,29,chair, left to ,35,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,35,chair, right to ,29,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,19,chair, lower than ,21,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,19,chair, lower than ,26,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,19,chair, bigger than ,35,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,21,chair, higher than ,19,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,25,chair, bigger than ,65,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,26,chair, higher than ,19,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,35,chair, smaller than ,19,chair
+491,d7d40d62-7a5d-2b36-955e-86a394caeabb,65,chair, smaller than ,25,chair
+494,280d8ebb-6cc6-2788-9153-98959a2da801,45,pillow, front ,46,pillow
+494,280d8ebb-6cc6-2788-9153-98959a2da801,46,pillow, behind ,45,pillow
+495,fcf66daa-622d-291c-8548-a1163ee299b4,12,cabinet, lower than ,13,cabinet
+495,fcf66daa-622d-291c-8548-a1163ee299b4,13,cabinet, higher than ,12,cabinet
+503,9af05c68-5794-2e19-8c5a-979f448da545,14,heater, behind ,20,stand
+503,9af05c68-5794-2e19-8c5a-979f448da545,20,stand, front ,14,heater
+503,9af05c68-5794-2e19-8c5a-979f448da545,37,pile of papers, right to ,43,telephone
+503,9af05c68-5794-2e19-8c5a-979f448da545,43,telephone, left to ,37,pile of papers
+504,0f2f271d-b736-2f71-8d77-dfc428e30c1e,21,chair, left to ,42,item
+504,0f2f271d-b736-2f71-8d77-dfc428e30c1e,42,item, right to ,21,chair
+510,0cac7597-8d6f-2d13-8c9c-6f8542021d5c,16,picture, smaller than ,54,picture
+510,0cac7597-8d6f-2d13-8c9c-6f8542021d5c,54,picture, bigger than ,16,picture
+517,b05fdda6-fca0-2d4f-8973-9f8a5cdac3ad,5,shelf, lower than ,7,shelf
+517,b05fdda6-fca0-2d4f-8973-9f8a5cdac3ad,7,shelf, higher than ,5,shelf
+518,d7d40d39-7a5d-2b36-972e-a7c800ca7bbf,20,shelf, front ,24,box
+518,d7d40d39-7a5d-2b36-972e-a7c800ca7bbf,24,box, behind ,20,shelf
+526,751a558e-fe61-2c3b-8d62-3b2ddfeb7758,22,bag, front ,23,bag
+526,751a558e-fe61-2c3b-8d62-3b2ddfeb7758,23,bag, behind ,22,bag
+529,09582214-e2c2-2de1-956a-64d8da4ba7cc,7,chair, left to ,13,box
+529,09582214-e2c2-2de1-956a-64d8da4ba7cc,13,box, right to ,7,chair
+534,1d233ffa-e280-2b1a-8e92-2540f61e5501,16,chair, right to ,21,chair
+534,1d233ffa-e280-2b1a-8e92-2540f61e5501,21,chair, left to ,16,chair
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,24,shelf, higher than ,33,shelf
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,24,shelf, higher than ,503,shelf
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,33,shelf, lower than ,24,shelf
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,33,shelf, bigger than ,503,shelf
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,503,shelf, lower than ,24,shelf
+540,c7895f07-339c-2d13-8176-7418b6e8d7ce,503,shelf, smaller than ,33,shelf
+541,e48c48fb-8b2f-2858-890d-fb49b3db5573,14,chair, front ,17,chair
+541,e48c48fb-8b2f-2858-890d-fb49b3db5573,17,chair, behind ,14,chair
+545,7ab2a9c5-ebc6-2056-89c7-920e98f0cf5a,36,cabinet, front ,46,stand
+545,7ab2a9c5-ebc6-2056-89c7-920e98f0cf5a,46,stand, behind ,36,cabinet
+545,7ab2a9c5-ebc6-2056-89c7-920e98f0cf5a,32,chair, higher than ,40,chair
+545,7ab2a9c5-ebc6-2056-89c7-920e98f0cf5a,40,chair, lower than ,32,chair
+553,0cac759b-8d6f-2d13-8e3b-2e3bc1ee1158,15,shelf, higher than ,39,shelf
+553,0cac759b-8d6f-2d13-8e3b-2e3bc1ee1158,39,shelf, lower than ,15,shelf
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,150,box, left to ,154,object
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,154,object, right to ,150,box
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,58,table, bigger than ,83,table
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,70,box, smaller than ,76,box
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,73,cabinet, smaller than ,117,cabinet
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,76,box, bigger than ,70,box
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,83,table, smaller than ,58,table
+558,7f30f36c-42f9-27ed-87c6-23ceb65f1f9b,117,cabinet, bigger than ,73,cabinet
+569,c7895f1b-339c-2d13-8348-d178c1c4b687,11,shelf, lower than ,50,shelf
+569,c7895f1b-339c-2d13-8348-d178c1c4b687,50,shelf, higher than ,11,shelf
+573,10b17973-3938-2467-8906-5ba39b48458d,37,pillow, smaller than ,59,pillow
+573,10b17973-3938-2467-8906-5ba39b48458d,59,pillow, bigger than ,37,pillow
+576,422885d9-192d-25fc-85de-b954f526b2ac,33,shelf, behind ,34,shelf
+576,422885d9-192d-25fc-85de-b954f526b2ac,34,shelf, front ,33,shelf
+581,752cc597-920c-26f5-8c1b-a8a5c90a21d7,17,chair, smaller than ,18,chair
+581,752cc597-920c-26f5-8c1b-a8a5c90a21d7,18,chair, bigger than ,17,chair
+583,0cac762b-8d6f-2d13-8de2-832a3c07864b,31,shelf, higher than ,57,shelf
+583,0cac762b-8d6f-2d13-8de2-832a3c07864b,37,shelf, higher than ,57,shelf
+583,0cac762b-8d6f-2d13-8de2-832a3c07864b,57,shelf, lower than ,31,shelf
+583,0cac762b-8d6f-2d13-8de2-832a3c07864b,57,shelf, lower than ,37,shelf
+587,1d2f851a-d757-207c-8faa-3625b6dda1e5,19,clothes, right to ,47,box
+587,1d2f851a-d757-207c-8faa-3625b6dda1e5,47,box, left to ,19,clothes
+591,0cac75b7-8d6f-2d13-8cb2-0b4e06913140,51,pillow, lower than ,54,pillow
+591,0cac75b7-8d6f-2d13-8cb2-0b4e06913140,54,pillow, higher than ,51,pillow
+591,0cac75b7-8d6f-2d13-8cb2-0b4e06913140,54,pillow, higher than ,55,pillow
+591,0cac75b7-8d6f-2d13-8cb2-0b4e06913140,55,pillow, lower than ,54,pillow
+595,1713f859-5300-2104-841c-c60e88ded469,11,shelf, bigger than ,16,shelf
+595,1713f859-5300-2104-841c-c60e88ded469,16,shelf, smaller than ,11,shelf
+597,cf00577e-b8f0-2aa8-8751-be34df30341f,70,box, smaller than ,76,box
+597,cf00577e-b8f0-2aa8-8751-be34df30341f,76,box, bigger than ,70,box
+600,6bde606a-9162-246f-8d00-6f12f032e27d,21,box, higher than ,22,box
+600,6bde606a-9162-246f-8d00-6f12f032e27d,22,box, lower than ,21,box
+603,4d3d82b6-8cf4-2e04-830a-4303fa0e79c7,17,chair, left to ,18,chair
+603,4d3d82b6-8cf4-2e04-830a-4303fa0e79c7,18,chair, right to ,17,chair
+609,68bae76c-3567-2f7c-827d-373035a2d942,15,chair, smaller than ,16,chair
+609,68bae76c-3567-2f7c-827d-373035a2d942,16,chair, bigger than ,15,chair
+617,751a558c-fe61-2c3b-8f4e-340ddb43b8bd,23,bag, higher than ,29,bag
+617,751a558c-fe61-2c3b-8f4e-340ddb43b8bd,29,bag, lower than ,23,bag
+620,634d11c7-6833-255d-8d76-86fe90beafdc,10,picture, lower than ,22,picture
+620,634d11c7-6833-255d-8d76-86fe90beafdc,11,picture, lower than ,22,picture
+620,634d11c7-6833-255d-8d76-86fe90beafdc,22,picture, higher than ,10,picture
+620,634d11c7-6833-255d-8d76-86fe90beafdc,22,picture, higher than ,11,picture
+623,dcb6a32b-5526-23f1-9cbc-3d257a8096fa,4,kitchen cabinet, higher than ,8,kitchen cabinet
+623,dcb6a32b-5526-23f1-9cbc-3d257a8096fa,8,kitchen cabinet, lower than ,4,kitchen cabinet
+623,dcb6a32b-5526-23f1-9cbc-3d257a8096fa,12,chair, higher than ,35,chair
+623,dcb6a32b-5526-23f1-9cbc-3d257a8096fa,35,chair, lower than ,12,chair
+637,a0905fe8-66f7-2272-9e46-073291573af6,21,pillow, lower than ,22,pillow
+637,a0905fe8-66f7-2272-9e46-073291573af6,22,pillow, higher than ,21,pillow
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,31,box, left to ,52,box
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,52,box, right to ,31,box
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,18,shelf, bigger than ,19,shelf
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,19,shelf, smaller than ,18,shelf
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,19,shelf, higher than ,37,shelf
+642,cdcaf5b9-ddd8-2ed6-9407-e5600914b733,37,shelf, lower than ,19,shelf
+646,1d23400e-e280-2b1a-8dec-67a551146c3a,25,pillow, right to ,26,blanket
+646,1d23400e-e280-2b1a-8dec-67a551146c3a,26,blanket, left to ,25,pillow
+654,eee5b052-ee2d-28f4-99fd-c3c5380db25e,27,towel, right to ,29,shelf
+654,eee5b052-ee2d-28f4-99fd-c3c5380db25e,29,shelf, left to ,27,towel
+664,e83fe655-2171-26c8-8eb2-b89a89af4928,17,shelf, smaller than ,24,shelf
+664,e83fe655-2171-26c8-8eb2-b89a89af4928,24,shelf, bigger than ,17,shelf
+668,8eabc424-5af7-2f32-8624-5cba04f952bc,20,box, left to ,23,bag
+668,8eabc424-5af7-2f32-8624-5cba04f952bc,23,bag, right to ,20,box
+668,8eabc424-5af7-2f32-8624-5cba04f952bc,25,bag, bigger than ,27,bag
+668,8eabc424-5af7-2f32-8624-5cba04f952bc,27,bag, smaller than ,25,bag
+670,f62fd5fa-9a3f-2f44-8b04-9c754f6a5a8d,16,pillow, behind ,25,pillow
+670,f62fd5fa-9a3f-2f44-8b04-9c754f6a5a8d,25,pillow, front ,16,pillow
+670,f62fd5fa-9a3f-2f44-8b04-9c754f6a5a8d,18,pillow, bigger than ,21,pillow
+670,f62fd5fa-9a3f-2f44-8b04-9c754f6a5a8d,21,pillow, smaller than ,18,pillow
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,65,chair, lower than ,31,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,65,chair, lower than ,32,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,17,chair, higher than ,30,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,26,chair, higher than ,30,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,26,chair, lower than ,32,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,30,chair, lower than ,17,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,30,chair, lower than ,26,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,30,chair, lower than ,31,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,30,chair, lower than ,32,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,31,chair, higher than ,65,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,31,chair, higher than ,30,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,32,chair, higher than ,65,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,32,chair, higher than ,26,chair
+673,5555106a-36f1-29c0-8913-df1ba3c3cfd5,32,chair, higher than ,30,chair
+674,5341b790-8a66-2cdd-8472-90e738e30995,5,shelf, lower than ,7,shelf
+674,5341b790-8a66-2cdd-8472-90e738e30995,7,shelf, higher than ,5,shelf
+679,8eabc465-5af7-2f32-840a-96fb8ac605cf,3,chair, left to ,14,chair
+679,8eabc465-5af7-2f32-840a-96fb8ac605cf,14,chair, right to ,3,chair
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,18,shelf, bigger than ,19,shelf
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,19,shelf, smaller than ,18,shelf
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,19,shelf, higher than ,37,shelf
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,37,shelf, lower than ,19,shelf
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,63,bag, lower than ,64,bag
+680,d7d40d73-7a5d-2b36-9709-0be87127a141,64,bag, higher than ,63,bag
+684,bcb0fe1f-4f39-2c70-9e7f-a9d783c159fc,7,shelf, lower than ,18,shelf
+684,bcb0fe1f-4f39-2c70-9e7f-a9d783c159fc,18,shelf, higher than ,7,shelf
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,34,basket, right to ,36,basket
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,36,basket, left to ,34,basket
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,14,shelf, higher than ,26,shelf
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,26,shelf, lower than ,14,shelf
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,26,shelf, lower than ,59,shelf
+686,10a993b0-b1ad-2404-85b7-3eac1e66b413,59,shelf, higher than ,26,shelf
+693,def7fbc1-48c2-2895-91d9-cb5e6f3e3589,8,kitchen cabinet, bigger than ,11,kitchen cabinet
+693,def7fbc1-48c2-2895-91d9-cb5e6f3e3589,11,kitchen cabinet, smaller than ,8,kitchen cabinet
+702,baf0a8f0-26d4-2033-8948-52ae41fdd30f,52,bag, bigger than ,63,bag
+702,baf0a8f0-26d4-2033-8948-52ae41fdd30f,63,bag, smaller than ,52,bag
+710,d7d40d6a-7a5d-2b36-954e-6faa597aea5f,3,picture, higher than ,14,picture
+710,d7d40d6a-7a5d-2b36-954e-6faa597aea5f,14,picture, lower than ,3,picture
+711,74ef846e-9dce-2d66-83d5-294aac7b1b0f,36,tv, left to ,47,book
+711,74ef846e-9dce-2d66-83d5-294aac7b1b0f,47,book, right to ,36,tv
+712,10b1793a-3938-2467-8a84-eb8c081481b8,16,window, right to ,18,radiator
+712,10b1793a-3938-2467-8a84-eb8c081481b8,18,radiator, left to ,16,window
+714,ba6fda9a-a4c1-2dca-8264-792c15aa9ef9,12,nightstand, left to ,13,nightstand
+714,ba6fda9a-a4c1-2dca-8264-792c15aa9ef9,13,nightstand, right to ,12,nightstand
+715,87e6cf7b-9d1a-289f-8692-57e5757dac99,6,chair, lower than ,7,chair
+715,87e6cf7b-9d1a-289f-8692-57e5757dac99,7,chair, higher than ,6,chair
+716,2e36955d-e133-204c-90da-122ae14d42a3,16,pillow, higher than ,20,pillow
+716,2e36955d-e133-204c-90da-122ae14d42a3,20,pillow, lower than ,16,pillow
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,11,shelf, higher than ,31,shelf
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,22,box, smaller than ,42,box
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,25,box, smaller than ,42,box
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,31,shelf, lower than ,11,shelf
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,42,box, bigger than ,22,box
+718,fcf66dbe-622d-291c-8790-49f1fe8a02e5,42,box, bigger than ,25,box
+722,751a55a3-fe61-2c3b-8d1b-daad80d1af30,22,shelf, higher than ,25,shelf
+722,751a55a3-fe61-2c3b-8d1b-daad80d1af30,25,shelf, lower than ,22,shelf
+727,a0905fea-66f7-2272-9d2c-15612116fe96,17,pillow, lower than ,22,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,18,pillow, lower than ,23,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,19,pillow, lower than ,22,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,20,pillow, lower than ,22,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,21,pillow, lower than ,22,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,22,pillow, higher than ,17,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,22,pillow, higher than ,19,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,22,pillow, higher than ,20,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,22,pillow, higher than ,21,pillow
+727,a0905fea-66f7-2272-9d2c-15612116fe96,23,pillow, higher than ,18,pillow
+739,ddc73797-765b-241a-9e2c-097c5989baf6,11,chair, higher than ,20,chair
+739,ddc73797-765b-241a-9e2c-097c5989baf6,12,chair, higher than ,20,chair
+739,ddc73797-765b-241a-9e2c-097c5989baf6,20,chair, lower than ,11,chair
+739,ddc73797-765b-241a-9e2c-097c5989baf6,20,chair, lower than ,12,chair
+739,ddc73797-765b-241a-9e2c-097c5989baf6,24,shelf, higher than ,503,shelf
+739,ddc73797-765b-241a-9e2c-097c5989baf6,503,shelf, lower than ,24,shelf
+754,dcb6a329-5526-23f1-9d81-7718f682269c,4,kitchen cabinet, higher than ,8,kitchen cabinet
+754,dcb6a329-5526-23f1-9d81-7718f682269c,8,kitchen cabinet, lower than ,4,kitchen cabinet
+754,dcb6a329-5526-23f1-9d81-7718f682269c,12,chair, higher than ,39,chair
+754,dcb6a329-5526-23f1-9d81-7718f682269c,39,chair, lower than ,12,chair
+756,2a7f9476-080c-26f9-86e9-c7ce1c76fc07,7,kitchen cabinet, bigger than ,9,kitchen cabinet
+756,2a7f9476-080c-26f9-86e9-c7ce1c76fc07,9,kitchen cabinet, smaller than ,7,kitchen cabinet
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,30,pillow, higher than ,39,pillow
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,32,pillow, lower than ,34,pillow
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,34,pillow, higher than ,32,pillow
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,34,pillow, higher than ,39,pillow
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,39,pillow, lower than ,30,pillow
+759,1e0ccbe6-9783-2bd7-8d51-ca9e9226bf35,39,pillow, lower than ,34,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,32,shelf, smaller than ,41,shelf
+766,35788e22-696e-2374-8898-bc5d06109906,34,pillow, higher than ,79,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,35,pillow, higher than ,79,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,36,pillow, higher than ,79,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,36,pillow, higher than ,82,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,41,shelf, bigger than ,32,shelf
+766,35788e22-696e-2374-8898-bc5d06109906,53,shelf, smaller than ,68,shelf
+766,35788e22-696e-2374-8898-bc5d06109906,68,shelf, bigger than ,53,shelf
+766,35788e22-696e-2374-8898-bc5d06109906,79,pillow, lower than ,34,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,79,pillow, lower than ,35,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,79,pillow, lower than ,36,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,79,pillow, bigger than ,81,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,81,pillow, smaller than ,79,pillow
+766,35788e22-696e-2374-8898-bc5d06109906,82,pillow, lower than ,36,pillow
+781,e44d238f-52a2-2879-88ec-e383a4d9abf3,32,box, smaller than ,33,box
+781,e44d238f-52a2-2879-88ec-e383a4d9abf3,33,box, bigger than ,32,box
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,18,shelf, higher than ,22,shelf
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,18,shelf, higher than ,37,shelf
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,19,shelf, higher than ,37,shelf
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,22,shelf, lower than ,18,shelf
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,37,shelf, lower than ,18,shelf
+785,a090600c-66f7-2272-9d26-5a98b70d30c5,37,shelf, lower than ,19,shelf
+788,170725d4-9f1b-2d87-812a-b126916caa9f,38,box, left to ,42,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,42,box, right to ,38,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,33,box, smaller than ,52,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,33,box, smaller than ,55,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,43,box, higher than ,51,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,51,box, lower than ,43,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,52,box, bigger than ,33,box
+788,170725d4-9f1b-2d87-812a-b126916caa9f,55,box, bigger than ,33,box
+793,d9725be5-7513-2d91-8518-d324d081f19c,17,shelf, left to ,18,shelf
+793,d9725be5-7513-2d91-8518-d324d081f19c,18,shelf, right to ,17,shelf
+799,7ab2a9bf-ebc6-2056-8bd5-903a96eb7e99,33,box, left to ,41,item
+799,7ab2a9bf-ebc6-2056-8bd5-903a96eb7e99,41,item, right to ,33,box
+801,c7895f46-339c-2d13-81c6-395674134ef2,21,kitchen cabinet, higher than ,25,kitchen cabinet
+801,c7895f46-339c-2d13-81c6-395674134ef2,25,kitchen cabinet, lower than ,21,kitchen cabinet
+803,fcf66db6-622d-291c-8740-9e40c21de689,31,box, lower than ,33,box
+803,fcf66db6-622d-291c-8740-9e40c21de689,33,box, higher than ,31,box
+806,c92fb598-f771-2064-876d-327776fda299,13,cabinet, bigger than ,24,cabinet
+806,c92fb598-f771-2064-876d-327776fda299,24,cabinet, smaller than ,13,cabinet
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,16,shelf, smaller than ,19,shelf
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,17,shelf, smaller than ,19,shelf
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,19,shelf, bigger than ,16,shelf
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,19,shelf, bigger than ,17,shelf
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,19,shelf, bigger than ,47,shelf
+817,0cac75dc-8d6f-2d13-8d08-9c497bd6acdc,47,shelf, smaller than ,19,shelf
+819,a0905fec-66f7-2272-9d99-205da6e213fe,25,plant, front ,44,item
+819,a0905fec-66f7-2272-9d99-205da6e213fe,25,plant, behind ,46,item
+819,a0905fec-66f7-2272-9d99-205da6e213fe,44,item, behind ,25,plant
+819,a0905fec-66f7-2272-9d99-205da6e213fe,44,item, behind ,46,item
+819,a0905fec-66f7-2272-9d99-205da6e213fe,46,item, front ,25,plant
+819,a0905fec-66f7-2272-9d99-205da6e213fe,46,item, front ,44,item
+819,a0905fec-66f7-2272-9d99-205da6e213fe,55,pillow, lower than ,58,pillow
+819,a0905fec-66f7-2272-9d99-205da6e213fe,58,pillow, higher than ,55,pillow
+820,0cac766c-8d6f-2d13-8cde-44c997b5e8a7,22,shelf, front ,23,shelf
+820,0cac766c-8d6f-2d13-8cde-44c997b5e8a7,23,shelf, behind ,22,shelf
+820,0cac766c-8d6f-2d13-8cde-44c997b5e8a7,20,shelf, higher than ,23,shelf
+820,0cac766c-8d6f-2d13-8cde-44c997b5e8a7,23,shelf, lower than ,20,shelf
+822,fcf66da6-622d-291c-8685-46cd96a8af4e,33,box, smaller than ,45,box
+822,fcf66da6-622d-291c-8685-46cd96a8af4e,45,box, bigger than ,33,box
+833,569d8f13-72aa-2f24-8b64-3bde3b0603ab,9,chair, lower than ,12,chair
+833,569d8f13-72aa-2f24-8b64-3bde3b0603ab,9,chair, lower than ,28,chair
+833,569d8f13-72aa-2f24-8b64-3bde3b0603ab,12,chair, higher than ,9,chair
+833,569d8f13-72aa-2f24-8b64-3bde3b0603ab,28,chair, higher than ,9,chair
+835,0cac75f4-8d6f-2d13-8c10-ce688f7ac0af,16,shelf, higher than ,23,shelf
+835,0cac75f4-8d6f-2d13-8c10-ce688f7ac0af,23,shelf, lower than ,16,shelf
+843,0cac767e-8d6f-2d13-8d1a-d5e9b184df15,51,item, right to ,52,item
+843,0cac767e-8d6f-2d13-8d1a-d5e9b184df15,52,item, left to ,51,item
+852,10b17946-3938-2467-8bd9-0cc6be6dff91,9,cupboard, front ,11,shelf
+852,10b17946-3938-2467-8bd9-0cc6be6dff91,11,shelf, behind ,9,cupboard
+853,c92fb576-f771-2064-845a-a52a44a9539f,13,cabinet, bigger than ,24,cabinet
+853,c92fb576-f771-2064-845a-a52a44a9539f,24,cabinet, smaller than ,13,cabinet
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,58,table, bigger than ,83,table
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,70,box, smaller than ,76,box
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,73,cabinet, smaller than ,117,cabinet
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,76,box, bigger than ,70,box
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,83,table, smaller than ,58,table
+854,cf00577c-b8f0-2aa8-869e-175d8b655d12,117,cabinet, bigger than ,73,cabinet
+855,0cac75f2-8d6f-2d13-8f0f-f00e880b4e7b,29,shelf, lower than ,46,shelf
+855,0cac75f2-8d6f-2d13-8f0f-f00e880b4e7b,46,shelf, higher than ,29,shelf
+858,5341b7e3-8a66-2cdd-8709-66a2159f0017,17,shelf, lower than ,29,shelf
+858,5341b7e3-8a66-2cdd-8709-66a2159f0017,29,shelf, higher than ,17,shelf
+859,38770ca1-86d7-27b8-8619-ab66f67d9adf,16,kitchen cabinet, left to ,64,doorframe
+859,38770ca1-86d7-27b8-8619-ab66f67d9adf,64,doorframe, right to ,16,kitchen cabinet
+860,20c993ad-698f-29c5-8580-879f93258149,20,pillow, front ,30,pillow
+860,20c993ad-698f-29c5-8580-879f93258149,30,pillow, behind ,20,pillow
+867,7747a506-9431-24e8-87d9-37a5654d41f4,8,picture, higher than ,25,picture
+867,7747a506-9431-24e8-87d9-37a5654d41f4,25,picture, lower than ,8,picture
+868,42384914-60a7-271e-9c5f-f0e1eee114ae,32,pillow, lower than ,34,pillow
+868,42384914-60a7-271e-9c5f-f0e1eee114ae,34,pillow, higher than ,32,pillow
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,6,shelf, smaller than ,37,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,16,chair, lower than ,23,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,16,chair, lower than ,24,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,17,chair, lower than ,39,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,18,shelf, higher than ,22,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,18,shelf, higher than ,37,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,19,shelf, higher than ,37,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,22,shelf, lower than ,18,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,22,shelf, lower than ,47,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,23,chair, higher than ,16,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,24,chair, higher than ,16,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,37,shelf, bigger than ,6,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,37,shelf, lower than ,18,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,37,shelf, lower than ,19,shelf
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,39,chair, higher than ,17,chair
+869,87e6cf6b-9d1a-289f-866c-b90904d9487d,47,shelf, higher than ,22,shelf
+870,b05fddd9-fca0-2d4f-8904-936aa0b678e6,24,shelf, lower than ,31,shelf
+870,b05fddd9-fca0-2d4f-8904-936aa0b678e6,31,shelf, higher than ,24,shelf
+876,8eabc46d-5af7-2f32-85bd-f957e754c064,8,box, front ,25,kitchen cabinet
+876,8eabc46d-5af7-2f32-85bd-f957e754c064,25,kitchen cabinet, behind ,8,box
+876,8eabc46d-5af7-2f32-85bd-f957e754c064,4,shelf, lower than ,10,shelf
+876,8eabc46d-5af7-2f32-85bd-f957e754c064,10,shelf, higher than ,4,shelf
+877,5341b7a7-8a66-2cdd-86e5-6b641b0004d2,66,pillow, higher than ,100,pillow
+877,5341b7a7-8a66-2cdd-86e5-6b641b0004d2,66,pillow, higher than ,102,pillow
+877,5341b7a7-8a66-2cdd-86e5-6b641b0004d2,100,pillow, lower than ,66,pillow
+877,5341b7a7-8a66-2cdd-86e5-6b641b0004d2,102,pillow, lower than ,66,pillow
+885,210cdbc9-9e8d-2832-849c-9a10b4c87123,25,chair, lower than ,26,chair
+885,210cdbc9-9e8d-2832-849c-9a10b4c87123,26,chair, higher than ,25,chair
+888,6bde60a9-9162-246f-8f1a-2441db12c4d1,8,coffee table, higher than ,13,coffee table
+888,6bde60a9-9162-246f-8f1a-2441db12c4d1,13,coffee table, lower than ,8,coffee table
+889,531cff02-0021-28f6-8deb-a71f6c628346,17,box, smaller than ,34,box
+889,531cff02-0021-28f6-8deb-a71f6c628346,34,box, bigger than ,17,box
+902,18d4d926-7eb5-280e-87df-199e66f2babd,72,box, right to ,73,box
+902,18d4d926-7eb5-280e-87df-199e66f2babd,73,box, left to ,72,box
+902,18d4d926-7eb5-280e-87df-199e66f2babd,6,shelf, higher than ,11,shelf
+902,18d4d926-7eb5-280e-87df-199e66f2babd,11,shelf, lower than ,6,shelf
+902,18d4d926-7eb5-280e-87df-199e66f2babd,11,shelf, bigger than ,47,shelf
+902,18d4d926-7eb5-280e-87df-199e66f2babd,47,shelf, smaller than ,11,shelf
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,8,box, bigger than ,11,box
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,11,box, smaller than ,8,box
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,11,box, smaller than ,68,box
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,18,shelf, bigger than ,19,shelf
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,19,shelf, smaller than ,18,shelf
+906,d7d40d70-7a5d-2b36-960f-ddf3159cb360,68,box, bigger than ,11,box
+908,d7d40d68-7a5d-2b36-9671-6d4fcab1912a,9,cupboard, front ,11,shelf
+908,d7d40d68-7a5d-2b36-9671-6d4fcab1912a,11,shelf, behind ,9,cupboard
+911,6bde6072-9162-246f-8fa1-71ec9bc5ebeb,21,box, higher than ,23,box
+911,6bde6072-9162-246f-8fa1-71ec9bc5ebeb,23,box, lower than ,21,box
+913,4fbad32f-465b-2a5d-8408-146ab1d72808,15,stand, left to ,21,chair
+913,4fbad32f-465b-2a5d-8408-146ab1d72808,21,chair, right to ,15,stand
+918,0cac7613-8d6f-2d13-8d92-487a50d40794,11,bath cabinet, left to ,270,shower wall
+918,0cac7613-8d6f-2d13-8d92-487a50d40794,270,shower wall, right to ,11,bath cabinet
+927,c7895f23-339c-2d13-818e-2375ea0ba6d6,14,shelf, bigger than ,16,shelf
+927,c7895f23-339c-2d13-818e-2375ea0ba6d6,16,shelf, smaller than ,14,shelf
+937,7747a4ec-9431-24e8-848f-897279a1e9fe,59,kitchen appliance, right to ,60,food
+937,7747a4ec-9431-24e8-848f-897279a1e9fe,60,food, left to ,59,kitchen appliance
+950,4a9a43e0-7736-2874-87ac-c589da4d0f00,6,bag, smaller than ,35,bag
+950,4a9a43e0-7736-2874-87ac-c589da4d0f00,35,bag, bigger than ,6,bag
+954,55551091-36f1-29c0-8bae-687acbf664a0,41,box, front ,45,item
+954,55551091-36f1-29c0-8bae-687acbf664a0,45,item, behind ,41,box
+954,55551091-36f1-29c0-8bae-687acbf664a0,37,table, higher than ,82,table
+954,55551091-36f1-29c0-8bae-687acbf664a0,82,table, lower than ,37,table
+955,0cac7635-8d6f-2d13-8ea5-25f4dc197d1d,14,picture, higher than ,27,picture
+955,0cac7635-8d6f-2d13-8ea5-25f4dc197d1d,27,picture, lower than ,14,picture
+958,0cac7621-8d6f-2d13-8cb1-ac43b90f4141,27,box, right to ,101,box
+958,0cac7621-8d6f-2d13-8cb1-ac43b90f4141,27,box, behind ,101,box
+958,0cac7621-8d6f-2d13-8cb1-ac43b90f4141,101,box, front ,27,box
+958,0cac7621-8d6f-2d13-8cb1-ac43b90f4141,101,box, left to ,27,box
+960,a0905fdd-66f7-2272-9cdb-89360888ea67,65,shelf, lower than ,14,shelf
+960,a0905fdd-66f7-2272-9cdb-89360888ea67,14,shelf, higher than ,65,shelf
+961,73315a27-185c-2c8a-848a-46d989c1112a,47,pillow, lower than ,49,pillow
+961,73315a27-185c-2c8a-848a-46d989c1112a,49,pillow, higher than ,47,pillow
+964,d63767c1-3205-226c-9a47-70f388b93739,27,box, front ,28,box
+964,d63767c1-3205-226c-9a47-70f388b93739,28,box, behind ,27,box
+964,d63767c1-3205-226c-9a47-70f388b93739,21,box, smaller than ,25,box
+964,d63767c1-3205-226c-9a47-70f388b93739,25,box, bigger than ,21,box
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,37,chair, behind ,41,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,41,chair, front ,37,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,67,chair, lower than ,20,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,15,chair, higher than ,18,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,16,chair, higher than ,18,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,16,chair, higher than ,19,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,17,chair, higher than ,25,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,18,chair, lower than ,15,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,18,chair, lower than ,16,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,19,chair, lower than ,16,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,20,chair, higher than ,67,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,20,chair, higher than ,40,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,20,chair, higher than ,41,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,20,chair, higher than ,42,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,25,chair, lower than ,17,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,40,chair, lower than ,20,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,41,chair, lower than ,20,chair
+966,569d8f11-72aa-2f24-88ea-bd6aa4f1d84c,42,chair, lower than ,20,chair
+967,5ed77dd8-c4f5-27a0-85c7-c9cfc4feb6dd,14,shelf, bigger than ,55,shelf
+967,5ed77dd8-c4f5-27a0-85c7-c9cfc4feb6dd,55,shelf, smaller than ,14,shelf
+971,5ed77dd4-c4f5-27a0-8476-f3048ea53ef5,18,window, left to ,20,curtain
+971,5ed77dd4-c4f5-27a0-8476-f3048ea53ef5,20,curtain, right to ,18,window
+975,bcb0fe13-4f39-2c70-9fdd-eff98a9fbf7e,7,plant, front ,8,plant
+975,bcb0fe13-4f39-2c70-9fdd-eff98a9fbf7e,8,plant, behind ,7,plant
+996,bcb0fe33-4f39-2c70-9cb1-081014d8a9b8,24,object, left to ,25,object
+996,bcb0fe33-4f39-2c70-9cb1-081014d8a9b8,25,object, right to ,24,object
+997,4d3d82a4-8cf4-2e04-8144-95d355266160,6,shelf, left to ,7,shelf
+997,4d3d82a4-8cf4-2e04-8144-95d355266160,7,shelf, right to ,6,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,7,shelf, higher than ,43,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,16,shelf, higher than ,41,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,16,shelf, higher than ,42,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,16,shelf, higher than ,43,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,17,shelf, higher than ,41,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,17,shelf, higher than ,42,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,17,shelf, higher than ,43,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,18,shelf, higher than ,41,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,18,shelf, higher than ,42,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,18,shelf, higher than ,43,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,19,shelf, higher than ,41,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,19,shelf, higher than ,42,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,19,shelf, higher than ,43,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,39,shelf, smaller than ,41,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,41,shelf, lower than ,16,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,41,shelf, lower than ,17,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,41,shelf, lower than ,18,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,41,shelf, lower than ,19,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,41,shelf, bigger than ,39,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,42,shelf, lower than ,16,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,42,shelf, lower than ,17,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,42,shelf, lower than ,18,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,42,shelf, lower than ,19,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,43,shelf, lower than ,7,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,43,shelf, lower than ,16,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,43,shelf, lower than ,17,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,43,shelf, lower than ,18,shelf
+1004,c92fb58e-f771-2064-85ec-a3446ebee692,43,shelf, lower than ,19,shelf
+1008,0cac75c4-8d6f-2d13-8c37-fcfaf141ae5a,15,cabinet, lower than ,22,cabinet
+1008,0cac75c4-8d6f-2d13-8c37-fcfaf141ae5a,22,cabinet, higher than ,15,cabinet
+1009,0f2f2711-b736-2f71-8c6a-245a9d820a8c,23,chair, front ,25,chair
+1009,0f2f2711-b736-2f71-8c6a-245a9d820a8c,25,chair, behind ,23,chair
+1010,0cac7540-8d6f-2d13-8eee-36ba2a428e3f,2,table, lower than ,5,table
+1010,0cac7540-8d6f-2d13-8eee-36ba2a428e3f,5,table, higher than ,2,table
+1011,5341b7bf-8a66-2cdd-8794-026113b7c312,15,shelf, bigger than ,18,shelf
+1011,5341b7bf-8a66-2cdd-8794-026113b7c312,18,shelf, smaller than ,15,shelf
+1012,751a55a1-fe61-2c3b-8df5-925bfeac2496,23,bag, higher than ,29,bag
+1012,751a55a1-fe61-2c3b-8df5-925bfeac2496,29,bag, lower than ,23,bag
+1014,75c25975-9ca2-2844-9769-84677f46d4cf,6,picture, lower than ,15,picture
+1014,75c25975-9ca2-2844-9769-84677f46d4cf,15,picture, higher than ,6,picture
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,133,table, right to ,155,object
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,155,object, left to ,133,table
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,58,table, bigger than ,83,table
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,76,box, smaller than ,142,box
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,83,table, smaller than ,58,table
+1017,9766cbfd-6321-2e2f-8348-7da212a30beb,142,box, bigger than ,76,box
+1019,f2c76feb-2239-29d0-8418-72b6051fc144,37,pillow, bigger than ,39,pillow
+1019,f2c76feb-2239-29d0-8418-72b6051fc144,39,pillow, smaller than ,37,pillow
+1020,ab835fa7-54c6-29a1-997b-3804159c15ea,20,chair, front ,25,chair
+1020,ab835fa7-54c6-29a1-997b-3804159c15ea,25,chair, behind ,20,chair
+1023,10b17971-3938-2467-8a86-2b42613aa7ec,59,pillow, lower than ,60,pillow
+1023,10b17971-3938-2467-8a86-2b42613aa7ec,60,pillow, higher than ,59,pillow
+1032,1d23400c-e280-2b1a-8d36-1f20202baaf9,14,shelf, left to ,15,shelf
+1032,1d23400c-e280-2b1a-8d36-1f20202baaf9,15,shelf, right to ,14,shelf
+1036,75c259a5-9ca2-2844-9441-d72912c1e696,27,shelf, higher than ,20,shelf
+1036,75c259a5-9ca2-2844-9441-d72912c1e696,20,shelf, lower than ,27,shelf
+1042,8eabc441-5af7-2f32-85e5-f1bd241503de,10,shelf, smaller than ,49,shelf
+1042,8eabc441-5af7-2f32-85e5-f1bd241503de,12,shelf, smaller than ,49,shelf
+1042,8eabc441-5af7-2f32-85e5-f1bd241503de,49,shelf, bigger than ,10,shelf
+1042,8eabc441-5af7-2f32-85e5-f1bd241503de,49,shelf, bigger than ,12,shelf
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,19,pillow, left to ,20,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,20,pillow, right to ,19,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,22,pillow, higher than ,56,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,27,pillow, higher than ,56,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,28,pillow, higher than ,55,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,28,pillow, higher than ,56,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,30,pillow, higher than ,56,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,55,pillow, lower than ,28,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,56,pillow, lower than ,22,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,56,pillow, lower than ,27,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,56,pillow, lower than ,28,pillow
+1047,20c993b1-698f-29c5-865d-3a86c19acb3b,56,pillow, lower than ,30,pillow
+1049,569d8f0d-72aa-2f24-8ac6-c6ee8d927c4b,32,chair, left to ,73,heater
+1049,569d8f0d-72aa-2f24-8ac6-c6ee8d927c4b,73,heater, right to ,32,chair
+1052,ad408c9d-84db-2095-89c7-8a54f6260252,22,shelf, behind ,23,shelf
+1052,ad408c9d-84db-2095-89c7-8a54f6260252,23,shelf, front ,22,shelf
+1054,185d7419-3698-223c-8b18-2dccc08c66d9,23,basket, left to ,35,box
+1054,185d7419-3698-223c-8b18-2dccc08c66d9,35,box, right to ,23,basket
+1054,185d7419-3698-223c-8b18-2dccc08c66d9,17,shelf, smaller than ,24,shelf
+1054,185d7419-3698-223c-8b18-2dccc08c66d9,24,shelf, bigger than ,17,shelf
+1063,1776ad7a-4db7-2333-8afa-5fb5440b2edc,15,object, front ,22,plant
+1063,1776ad7a-4db7-2333-8afa-5fb5440b2edc,22,plant, behind ,15,object
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,23,shelf, behind ,204,shelf
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,204,shelf, front ,23,shelf
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,23,shelf, bigger than ,24,shelf
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,24,shelf, smaller than ,23,shelf
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,24,shelf, smaller than ,204,shelf
+1064,ddc737b1-765b-241a-9c21-a4e2674b2853,204,shelf, bigger than ,24,shelf
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,18,chair, lower than ,26,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,19,chair, lower than ,26,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,26,chair, higher than ,18,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,26,chair, higher than ,19,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,26,chair, higher than ,34,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,26,chair, higher than ,35,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,26,chair, higher than ,81,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,34,chair, lower than ,26,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,35,chair, lower than ,26,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,81,chair, lower than ,26,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,81,chair, lower than ,90,chair
+1072,4a9a43eb-7736-2874-862e-a4c23d88831f,90,chair, higher than ,81,chair
+1077,e61b0e04-bada-2f31-82d6-72831a602ba7,16,shelf, behind ,17,tv
+1077,e61b0e04-bada-2f31-82d6-72831a602ba7,17,tv, front ,16,shelf
+1077,e61b0e04-bada-2f31-82d6-72831a602ba7,7,cabinet, bigger than ,42,cabinet
+1077,e61b0e04-bada-2f31-82d6-72831a602ba7,42,cabinet, smaller than ,7,cabinet
+1079,e2847ff3-a506-2b60-876a-e16960aa5fb2,53,pillow, right to ,74,pillow
+1079,e2847ff3-a506-2b60-876a-e16960aa5fb2,74,pillow, left to ,53,pillow
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,5,shelf, smaller than ,24,shelf
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,6,chair, lower than ,7,chair
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,7,chair, higher than ,6,chair
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,11,shelf, smaller than ,30,shelf
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,24,shelf, bigger than ,5,shelf
+1092,20c9939b-698f-29c5-85a4-68c286bd7053,30,shelf, bigger than ,11,shelf
+1095,8e0f1c26-9e28-2339-8799-53c13e81d9ff,209,shelf, higher than ,84,shelf
+1095,8e0f1c26-9e28-2339-8799-53c13e81d9ff,84,shelf, lower than ,209,shelf
+1100,2e4a3964-d452-21a0-9de5-4f7895499143,27,chair, front ,29,chair
+1100,2e4a3964-d452-21a0-9de5-4f7895499143,29,chair, behind ,27,chair
+1101,0cac761f-8d6f-2d13-8c29-90f19c5f65c6,11,kitchen cabinet, bigger than ,16,kitchen cabinet
+1101,0cac761f-8d6f-2d13-8c29-90f19c5f65c6,16,kitchen cabinet, smaller than ,11,kitchen cabinet
+1105,c7895f4e-339c-2d13-80d3-90eaa1403a25,11,object, left to ,21,object
+1105,c7895f4e-339c-2d13-80d3-90eaa1403a25,21,object, right to ,11,object
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,18,shelf, bigger than ,19,shelf
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,19,shelf, smaller than ,18,shelf
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,42,box, higher than ,60,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,51,box, smaller than ,69,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,60,box, lower than ,42,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,60,box, bigger than ,67,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,67,box, smaller than ,60,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,69,box, bigger than ,51,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,69,box, bigger than ,70,box
+1106,5630cfcb-12bf-2860-87ee-b4e4a5bf0cb0,70,box, smaller than ,69,box
+1111,0cac759d-8d6f-2d13-8e8b-c3730d9fe563,15,shelf, right to ,16,shelf
+1111,0cac759d-8d6f-2d13-8e8b-c3730d9fe563,16,shelf, left to ,15,shelf
+1111,0cac759d-8d6f-2d13-8e8b-c3730d9fe563,15,shelf, higher than ,39,shelf
+1111,0cac759d-8d6f-2d13-8e8b-c3730d9fe563,39,shelf, lower than ,15,shelf
+1119,c7895f61-339c-2d13-8004-3cbebf317f21,6,kitchen cabinet, lower than ,25,kitchen cabinet
+1119,c7895f61-339c-2d13-8004-3cbebf317f21,25,kitchen cabinet, higher than ,6,kitchen cabinet
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,6,shelf, smaller than ,37,shelf
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,18,shelf, smaller than ,37,shelf
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,19,shelf, higher than ,37,shelf
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,37,shelf, bigger than ,6,shelf
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,37,shelf, bigger than ,18,shelf
+1122,f62fd5f4-9a3f-2f44-8b81-246b93170189,37,shelf, lower than ,19,shelf
+1124,352e9c57-69fb-27a7-8bc7-4cf12e417e21,19,plant, front ,25,flower
+1124,352e9c57-69fb-27a7-8bc7-4cf12e417e21,25,flower, behind ,19,plant
+1126,ddc737b5-765b-241a-9efa-a3356768562d,23,shelf, lower than ,24,shelf
+1126,ddc737b5-765b-241a-9efa-a3356768562d,24,shelf, higher than ,23,shelf
+1126,ddc737b5-765b-241a-9efa-a3356768562d,24,shelf, smaller than ,204,shelf
+1126,ddc737b5-765b-241a-9efa-a3356768562d,25,shelf, higher than ,204,shelf
+1126,ddc737b5-765b-241a-9efa-a3356768562d,204,shelf, bigger than ,24,shelf
+1126,ddc737b5-765b-241a-9efa-a3356768562d,204,shelf, lower than ,25,shelf
+1138,5341b7db-8a66-2cdd-85c5-66dbe881bd5f,10,pillow, lower than ,42,pillow
+1138,5341b7db-8a66-2cdd-85c5-66dbe881bd5f,42,pillow, higher than ,10,pillow
+1139,c12890d8-d3df-2d0d-87cc-da303a47b893,30,shelf, front ,50,shelf
+1139,c12890d8-d3df-2d0d-87cc-da303a47b893,50,shelf, behind ,30,shelf
+1145,7272e198-a01b-20f6-8a8b-6688d9ac044e,11,chair, lower than ,25,chair
+1145,7272e198-a01b-20f6-8a8b-6688d9ac044e,12,chair, lower than ,25,chair
+1145,7272e198-a01b-20f6-8a8b-6688d9ac044e,25,chair, higher than ,11,chair
+1145,7272e198-a01b-20f6-8a8b-6688d9ac044e,25,chair, higher than ,12,chair
+1147,ee527b51-0df9-2dae-829e-a0543a6e4074,7,kitchen cabinet, bigger than ,9,kitchen cabinet
+1147,ee527b51-0df9-2dae-829e-a0543a6e4074,9,kitchen cabinet, smaller than ,7,kitchen cabinet
+1153,dbeb4d1b-faf9-2324-9ac8-cbad7aa51d12,10,shelf, higher than ,22,shelf
+1153,dbeb4d1b-faf9-2324-9ac8-cbad7aa51d12,22,shelf, lower than ,10,shelf
+1156,1d2f850c-d757-207c-8fba-60b90a7d4691,46,pillow, behind ,47,pillow
+1156,1d2f850c-d757-207c-8fba-60b90a7d4691,47,pillow, front ,46,pillow
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,16,chair, higher than ,40,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,16,chair, higher than ,43,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,19,chair, higher than ,40,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,19,chair, higher than ,41,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,19,chair, higher than ,43,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,40,chair, lower than ,16,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,40,chair, lower than ,19,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,40,chair, lower than ,46,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,40,chair, lower than ,53,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,41,chair, lower than ,19,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,41,chair, lower than ,46,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,43,chair, lower than ,16,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,43,chair, lower than ,19,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,43,chair, lower than ,46,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,43,chair, lower than ,51,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,43,chair, lower than ,53,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,46,chair, higher than ,40,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,46,chair, higher than ,41,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,46,chair, higher than ,43,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,51,chair, higher than ,43,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,53,chair, higher than ,40,chair
+1164,1d233ffe-e280-2b1a-8f1e-7ddb66c98d36,53,chair, higher than ,43,chair
+1168,2ea047cd-aeca-2021-8b73-675adae64f19,15,tv, left to ,18,book
+1168,2ea047cd-aeca-2021-8b73-675adae64f19,18,book, right to ,15,tv
+1172,2e4a3962-d452-21a0-9fd2-7a325c600a49,11,chair, front ,12,chair
+1172,2e4a3962-d452-21a0-9fd2-7a325c600a49,12,chair, behind ,11,chair
+1181,a7616234-a0aa-2dea-80e1-69c253cfa9b2,20,nightstand, higher than ,33,nightstand
+1181,a7616234-a0aa-2dea-80e1-69c253cfa9b2,33,nightstand, lower than ,20,nightstand
+1184,1d2f8512-d757-207c-8c76-9ce179890827,2,carpet, left to ,49,doorframe
+1184,1d2f8512-d757-207c-8c76-9ce179890827,49,doorframe, right to ,2,carpet
+1189,8eabc44d-5af7-2f32-8529-ab5255a6ae7f,32,pillow, higher than ,35,pillow
+1189,8eabc44d-5af7-2f32-8529-ab5255a6ae7f,35,pillow, lower than ,32,pillow
+1190,e61b0e02-bada-2f31-82d0-80fc5c70bd6f,7,cabinet, bigger than ,42,cabinet
+1190,e61b0e02-bada-2f31-82d0-80fc5c70bd6f,42,cabinet, smaller than ,7,cabinet
+1202,13124cc0-cec3-27a6-84bd-1f56cb6d11a8,14,pillow, left to ,19,pillow
+1202,13124cc0-cec3-27a6-84bd-1f56cb6d11a8,19,pillow, right to ,14,pillow
+1212,0cac7646-8d6f-2d13-8d24-1bc724028d31,28,curtain, left to ,43,curtain
+1212,0cac7646-8d6f-2d13-8d24-1bc724028d31,43,curtain, right to ,28,curtain
+1213,eee5b056-ee2d-28f4-9bbe-f7ddf37895a6,11,shelf, higher than ,29,shelf
+1213,eee5b056-ee2d-28f4-9bbe-f7ddf37895a6,29,shelf, lower than ,11,shelf
+1220,38770ca5-86d7-27b8-871c-57fdbfe87905,16,kitchen cabinet, left to ,64,doorframe
+1220,38770ca5-86d7-27b8-871c-57fdbfe87905,64,doorframe, right to ,16,kitchen cabinet
+1221,6bde608f-9162-246f-8e28-7c487fbbdfa1,4,picture, higher than ,13,picture
+1221,6bde608f-9162-246f-8e28-7c487fbbdfa1,13,picture, lower than ,4,picture
+1225,c7895f7a-339c-2d13-82ac-09ef1c9001ba,8,shelf, bigger than ,10,shelf
+1225,c7895f7a-339c-2d13-82ac-09ef1c9001ba,10,shelf, smaller than ,8,shelf
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,20,chair, lower than ,24,chair
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,22,chair, bigger than ,23,chair
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,23,chair, smaller than ,22,chair
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,23,chair, higher than ,29,chair
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,24,chair, higher than ,20,chair
+1226,5555108b-36f1-29c0-8bdd-1e94534bc134,29,chair, lower than ,23,chair
+1231,43b8cae7-6678-2e38-9986-dc6f18ac7bb0,7,armchair, left to ,8,armchair
+1231,43b8cae7-6678-2e38-9986-dc6f18ac7bb0,8,armchair, right to ,7,armchair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,5,chair, higher than ,7,chair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,6,chair, higher than ,7,chair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,7,chair, lower than ,5,chair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,7,chair, lower than ,6,chair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,7,chair, lower than ,8,chair
+1238,1776ad82-4db7-2333-89e4-d73159ac81d0,8,chair, higher than ,7,chair
+1241,0f2f2713-b736-2f71-8c10-dcecbef587f9,20,stand, right to ,23,chair
+1241,0f2f2713-b736-2f71-8c10-dcecbef587f9,23,chair, left to ,20,stand
+1241,0f2f2713-b736-2f71-8c10-dcecbef587f9,22,chair, lower than ,25,chair
+1241,0f2f2713-b736-2f71-8c10-dcecbef587f9,25,chair, higher than ,22,chair
+1245,5555108d-36f1-29c0-8b37-5efa2bef59d4,20,chair, lower than ,24,chair
+1245,5555108d-36f1-29c0-8b37-5efa2bef59d4,24,chair, higher than ,20,chair
+1245,5555108d-36f1-29c0-8b37-5efa2bef59d4,24,chair, higher than ,25,chair
+1245,5555108d-36f1-29c0-8b37-5efa2bef59d4,25,chair, lower than ,24,chair
+1254,0cac762f-8d6f-2d13-8e48-ed83163799fb,37,shelf, higher than ,57,shelf
+1254,0cac762f-8d6f-2d13-8e48-ed83163799fb,57,shelf, lower than ,37,shelf
+1254,0cac762f-8d6f-2d13-8e48-ed83163799fb,59,box, bigger than ,68,box
+1254,0cac762f-8d6f-2d13-8e48-ed83163799fb,68,box, smaller than ,59,box
+1261,fcf66db2-622d-291c-8493-4f2517282f3f,27,box, right to ,33,box
+1261,fcf66db2-622d-291c-8493-4f2517282f3f,33,box, left to ,27,box
+1262,0ad2d382-79e2-2212-98b3-641bf9d552c1,13,chair, bigger than ,35,chair
+1262,0ad2d382-79e2-2212-98b3-641bf9d552c1,35,chair, smaller than ,13,chair
+1268,185d7427-3698-223c-8996-74a451349121,14,chair, lower than ,15,chair
+1268,185d7427-3698-223c-8996-74a451349121,15,chair, higher than ,14,chair
+1275,569d8f1e-72aa-2f24-8a3e-837f59c9e1dc,10,chair, right to ,15,chair
+1275,569d8f1e-72aa-2f24-8a3e-837f59c9e1dc,15,chair, left to ,10,chair
+1276,c7895f7c-339c-2d13-819f-3bb0b26c91f6,8,shelf, left to ,10,shelf
+1276,c7895f7c-339c-2d13-819f-3bb0b26c91f6,10,shelf, right to ,8,shelf
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,22,pillow, higher than ,56,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,27,pillow, higher than ,56,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,28,pillow, higher than ,54,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,28,pillow, higher than ,55,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,28,pillow, higher than ,56,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,54,pillow, lower than ,28,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,55,pillow, lower than ,28,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,56,pillow, lower than ,22,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,56,pillow, lower than ,27,pillow
+1304,20c993b5-698f-29c5-85a5-12b8deae78fb,56,pillow, lower than ,28,pillow
+1311,6993478c-1286-2e5b-8023-181d6efc14f9,5,kitchen cabinet, bigger than ,20,kitchen cabinet
+1311,6993478c-1286-2e5b-8023-181d6efc14f9,8,kitchen cabinet, bigger than ,20,kitchen cabinet
+1311,6993478c-1286-2e5b-8023-181d6efc14f9,20,kitchen cabinet, smaller than ,5,kitchen cabinet
+1311,6993478c-1286-2e5b-8023-181d6efc14f9,20,kitchen cabinet, smaller than ,8,kitchen cabinet
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,11,chair, lower than ,18,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,11,chair, lower than ,19,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,11,chair, lower than ,20,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,12,chair, lower than ,20,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,18,chair, higher than ,11,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,19,chair, higher than ,11,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,20,chair, higher than ,11,chair
+1334,569d8f20-72aa-2f24-8a85-2d43d390ff9d,20,chair, higher than ,12,chair

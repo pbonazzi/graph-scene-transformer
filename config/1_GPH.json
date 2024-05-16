@@ -1,0 +1,117 @@
+{
+  "author": "",
+  "device": "gpu",
+
+  "inference": false,
+  "use_prior": false,
+  "inference_scene": "",
+
+  "data": {
+    "n_of_relationships_type" : 44,
+    "n_of_objects_type": 529,
+    "n_of_orientation_bins": 24,
+    "graphormer": true,
+
+    "make_full_graph": false,
+    "edge_feat": true,
+    "floor_plan_bb": true,
+    "floor_plan_pc": false,
+    "pe": {
+          "lap_pe": true,
+          "wl_pe": false,
+          "pe_dim": 4
+    },
+
+    "normalize_location": true,
+    "normalize_dimension": true,
+    "normalize_orientation": false
+  },
+
+  "tests": {
+    "max_time": 24,
+    "warnings" : false,
+    "normalization" : false,
+    "deterministic": false
+  },
+
+  "params": {
+    "overfit": true,
+    "seed": 41,
+    "epochs": 100,
+    "batch_size": 64,
+    "n_epochs_stop": 5,
+
+    "encoder": {
+      "graph_convolution": false,
+      "n_of_convolution_layers": 3,
+      "hidden_dimension": 128,
+      "input_embedding": {
+        "object_code": 23,
+        "rotation_z": 23,
+        "size": 23,
+        "translation": 23
+      },
+      "n_of_transformers_layers": 2,
+      "n_of_attention_heads": 8,
+      "residual": true,
+      "layer_norm": false,
+      "batch_norm": false,
+      "types_of_attention": {
+        "classic": true,
+        "dgl_tutorial": false,
+        "as_in_generalization_graph_to_transformer": false,
+        "as_in_generalization_graph_to_transformer_on_dst": false,
+        "node_edge_combined": false
+      }
+    },
+
+    "decoder": {
+      "graph_convolution": false,
+      "n_of_convolution_layers": 3,
+      "hidden_dimension": 128,
+      "input_scene_graph": true,
+      "input_embedding": {
+        "object_code": 23
+      },
+      "use_transformer_decoder": true,
+      "n_of_transformers_layers": 2,
+      "n_of_attention_heads": 8,
+      "residual": true,
+      "layer_norm": false,
+      "batch_norm": false,
+      "types_of_attention": {
+        "classic": true,
+        "dgl_tutorial": false,
+        "as_in_generalization_graph_to_transformer": false,
+        "as_in_generalization_graph_to_transformer_on_dst": false,
+        "node_edge_combined": false
+      }
+    },
+
+    "multi_layer_loss": false,
+    "weight_KLD_loss": 0.01,
+    "orientation_loss": true,
+
+    "optimizer": {
+      "init_lr": 5e-4,
+      "min_lr": 0.0,
+      "weight_decay": 0.0,
+      "betas": [0.9, 0.98]
+    },
+
+    "scheduler": {
+      "Noam": false,
+      "warmup_steps": 10,
+      "ReduceLROnPlateau": true,
+      "lr_reduce_factor": 0.99,
+      "lr_schedule_patience": 5
+    },
+
+    "gradient_clipping" : true,
+    "clipping_value" : 5,
+
+    "in_feat_dropout": 0.0,
+    "dropout": 0.0
+
+    }
+}
